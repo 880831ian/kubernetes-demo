@@ -1,0 +1,14 @@
+{
+  "name": "k8s-demo",
+  "version": "1.0.0",
+  "description": "此為 k8s 測試用小程式，由 Node.js 製作，當訪問 3000 Port 時，會顯示一隻可愛的柴犬",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "880831ian<880831ian@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
